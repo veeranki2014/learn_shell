@@ -5,3 +5,4 @@ sample(){
 }
 
 sample
+echo Funtion Exit Status
