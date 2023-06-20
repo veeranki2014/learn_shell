@@ -6,6 +6,6 @@ while [ $a -ge 0 ]; do
   sleep 1
 done
 
-for componet in frontend mongodb catalogue redis user cart mysql shipping rabbitmq payment dispatch; do
+for component in frontend mongodb catalogue redis user cart mysql shipping rabbitmq payment dispatch; do
   echo creating roboshop component - $component
 done
